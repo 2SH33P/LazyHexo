@@ -1,10 +1,9 @@
-# Lazy Hexo
-
 <div align="center">
 	<img src="https://gcore.jsdelivr.net/gh/2SH33P/LazyHexo/logo.jpg" width=200px style="border-radius: 25%">
 	<h3>Lazy Hexo</h3>
 	<p>更适合懒人体质的Hexo全云端化部署方案！</p>
 </div>
+
 # 概述
 
 本仓库旨在实现仅需要`Github Actions`就可以摆脱本地实现全云端 Hexo 初始化到部署的一条龙流程，连 Node.js 也不用安装。
