@@ -33,7 +33,7 @@
 
 5. 到工具库设置中的`Page`项，将`Source`更改为`Github Actions`。
 
-5. 切换到工具库的Actions页面。
+6. 切换到工具库的Actions页面。
 
 点击左边的`Root folder initialization`，如图示初始化储存根目录的私有库。不出意外的话，储存根目录的私有库应该会有了`hexojs/hexo-starter`的仓库文件。
 
